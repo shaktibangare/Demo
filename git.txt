@@ -1,0 +1,5 @@
+1. create a folder in local drive
+git init
+git status
+
+
