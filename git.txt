@@ -1,5 +1,10 @@
 1. create a folder in local drive
 git init
 git status
-
-
+crate a file and use 
+git add abc.txt
+git status
+git add --all
+git commit -m"Hello hw r u??"
+git log
+git diff
